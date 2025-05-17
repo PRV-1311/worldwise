@@ -1,0 +1,18 @@
+{
+  "data": {
+    "cities": [
+      {
+        "id": "eaba",
+        "cityName": "Villafafila",
+        "country": "Spain",
+        "emoji": "https://flagcdn.com/24x18/es.png",
+        "date": "2025-05-17T11:09:36.744Z",
+        "notes": "sefsf",
+        "position": {
+          "lat": "41.85541204349337",
+          "lng": "-5.559082031250001"
+        }
+      }
+    ]
+  }
+}
